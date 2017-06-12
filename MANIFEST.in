@@ -1,0 +1,3 @@
+include re2/*.pyd
+include re2/*.dll
+include re2/*.egg-info
